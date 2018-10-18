@@ -17,6 +17,7 @@ These 2 days trainings aim to raise awareness, increase skills around open resea
 | Nov 12-13 | [CBSB, UofK]()|Entebbe, Sudan|[Faisal Fadlelmola](faisal.mohamed@hotmail.com)| 
 | Nov 12-13 | [ICIPE]()|Nairobi, Kenya|[Daniel Masiga]()| 
 
+For more information, contact ....
 
 
 #### Detailed schedule
