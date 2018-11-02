@@ -5,7 +5,7 @@ This is a repo to collect all materials and resources related to the Open Scienc
 
 #### What is the Working Open Workshop?
 
-**Mozilla Science group** and **H3ABionet** in collaboration with **SageBionetworks** will be running a series of 2 days Open Science trainings in East Africa. 
+**Mozilla Science group** and **H3ABionet** in collaboration with **SageBionetworks** will be running a series of 2 days Open Science trainings hosted by several institutions in East Africa. 
 These 2 days trainings aim to raise awareness, increase skills around open research and reproducibility in Science, tools and platforms,  and ultimately help scientist and researchers overcome the fears and challenges. 
 
 #### East-Africa tour details
@@ -35,7 +35,7 @@ Browse the details of our preceding Working Open Workshops organized by Mozilla 
 
 #### Life After WOW: The Open Leadership Mentors
 
-WOW was designed as a springboard for a group we're calling the Open Leadership Mentors. Members of the Open Leadership Mentors (with the support, advice, and encouragement of Mozilla staff and previously trained mentors) work together to create projects, share resources, and build active, regional communities of open source practitioners. 
+WOW was designed as a springboard for a group we're calling the Open Leadership Mentors. Members of the Open Leadership Mentors (with the support, advice, and encouragement of Mozilla staff and previously trained mentors) work together to create projects, share resources, and build active, regional communities of open source practitioners. Learn more about the Open Leadership program at their website here: https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/
 
 #### What is "open" research?
 
