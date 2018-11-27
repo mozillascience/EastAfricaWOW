@@ -12,10 +12,10 @@ These 2 days trainings aim to raise awareness, increase skills around open resea
 
 | Dates | Institution | City/Country |Contact person |
 | ------------- | ------------- |------------- |------------- |
-| Nov 12-13 | [UVRI]()|Entebbe, Uganda|[Jonathan Kayondo](jkayondo@gmail.com)| 
-| Nov 15-16 | [AASTU]()|Addis, Ethiopia|[Mesfin Diro](http://mesfin.diro@aau.edu.et )| 
-| Nov 18-19 | [CBSB, UofK]()|Entebbe, Sudan|[Faisal Fadlelmola](faisal.mohamed@hotmail.com)| 
-| Nov 22-23 | [ICIPE]()|Nairobi, Kenya|[Daniel Masiga]()| 
+| Nov 12-13 | [UVRI](http://www.uvri.go.ug/)|Entebbe, Uganda|[Jonathan Kayondo](jkayondo@gmail.com)| 
+| Nov 15-16 | [AASTU](http://www.aastu.edu.et/)|Addis, Ethiopia|[Mesfin Diro](http://mesfin.diro@aau.edu.et )| 
+| Nov 18-19 | [CBSB, UofK](http://cbsb.uofk.edu/)|Khartoum, Sudan|[Faisal Fadlelmola](faisal.mohamed@hotmail.com)| 
+| Nov 22-23 | [ICIPE](http://www.icipe.org/)|Nairobi, Kenya|[Daniel Masiga]()| 
 
 For more information, contact ....
 
